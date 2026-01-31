@@ -3,7 +3,6 @@ layout: home
 title: ""
 ---
 
-# JVault
 #### Welcome
 ----
 
