@@ -1,9 +1,18 @@
 title: "📄 JVault"
 theme: minima
 
+# Disable auto-generated navigation
+header_pages: 
+  - index.md
+  - services/index.md
+
 # Manual Navigation
 nav:
   - title: Home
     url: /
   - title: Services
     url: /services/
+
+# Additional configuration
+plugins:
+  - jekyll-feed
