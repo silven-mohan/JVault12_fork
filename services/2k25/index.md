@@ -1,5 +1,12 @@
-### Home
+---
+layout: default
+title: Services
+nav_exclude: true
+---
 
+### 🏡 Home
+
+---
 - [1st-Sem](1st-Sem/index.md)
 ---
 - [2nd-Sem](2nd-Sem/index.md)
