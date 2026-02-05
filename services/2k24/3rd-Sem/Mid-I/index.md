@@ -7,11 +7,15 @@ nav_exclude: true
 ### 🏡 Home
 
 ---
-- [Discrete Mathematics](https://github.com/JNTUGV-EXAM-PAPERS/2k23/tree/main/3rd-Sem/Mid-I/DiscreteMathematics.jpg)
+- [Mathematical Foundations for Computer Science](https://github.com/JNTUGV-EXAM-PAPERS/2k24/tree/main/3rd-Sem/Mid-I/MathematicalFoundationsforComputerScience.jpg)
 ---
-- [Digital Logic Design](https://github.com/JNTUGV-EXAM-PAPERS/2k23/tree/main/3rd-Sem/Mid-I/DigitalLogicDesign.jpg)
+- [Universal Human Values - Understanding Harmony and Human Ethical Conduct](https://github.com/JNTUGV-EXAM-PAPERS/2k24/tree/main/3rd-Sem/Mid-I/UniversalHumanValues.jpg)
 ---
-- [Computer Organization](https://github.com/JNTUGV-EXAM-PAPERS/2k23/tree/main/3rd-Sem/Mid-I/ComputerOrganization.jpg)
+- [Digital Logic and Computer Organization](https://github.com/JNTUGV-EXAM-PAPERS/2k24/tree/main/3rd-Sem/Mid-I/DigitalLogicandComputrOrganization.jpg)
 ---
-- [Object Oriented Programming](https://github.com/JNTUGV-EXAM-PAPERS/2k23/tree/main/3rd-Sem/Mid-I/ObjectOrientedProgramming.jpg)
+- [Advanced Data Structures](https://github.com/JNTUGV-EXAM-PAPERS/2k24/tree/main/3rd-Sem/Mid-I/AdvancedDataStructures.jpg)
+---
+- [Database Management Systems](https://github.com/JNTUGV-EXAM-PAPERS/2k24/tree/main/3rd-Sem/Mid-I/DatabaseManagementSystems.jpg)
+---
+- [Environmental Science](https://github.com/JNTUGV-EXAM-PAPERS/2k24/tree/main/3rd-Sem/Mid-I/EnvironmentalScience.jpg)
 ---
